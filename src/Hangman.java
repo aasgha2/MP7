@@ -1,3 +1,8 @@
+/***
+ * Hangman
+ * Ali Asghar - aasgha2
+ * Andy Medina - amedin44
+ */
 import java.io.*;
 import java.util.*;
 public class Hangman {
